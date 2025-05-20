@@ -4,7 +4,7 @@
 - 💞️ I am also passionate about contributing to **open-source projects**, collaboration and continuous learning.
 - 📫 **Reach me at:**  @hamzaabu645@gmail.com
 - ⚡ **Fun fact:** I believe Coding is a FUN, not BORING!
-- Let's connect and build something amazing together!
+- 🔗 Let's connect and build something amazing together! 🚀🤝
 
 <!---
 Hamza-9863/Hamza-9863 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
